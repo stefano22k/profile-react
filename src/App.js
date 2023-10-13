@@ -7,6 +7,8 @@ import Hobbies from './components/Hobbies';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import NotFound from './components/NotFound';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
 function App() {
     return (
